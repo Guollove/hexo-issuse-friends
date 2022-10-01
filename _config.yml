@@ -5,14 +5,14 @@ setting:
 
   gitee_friends_links: # gitee友链配置
     enable: true
-    owner: xaoxuu
-    repo: friends
+    owner: Guollove
+    repo: hexo-issuse-friends
     state: open
     labelid: 77925545 # none关闭功能
 
   github_friends_links: # github友链配置
     enable: true
-    owner: xaoxuu
-    repo: friends
+    owner: Guollove
+    repo: hexo-issuse-friends
     state: open
     label: active # none关闭功能
